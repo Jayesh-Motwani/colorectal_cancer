@@ -183,4 +183,6 @@ fabric.properties
 .idea
 
 step_one.csv 
-a_bit_cleaned.csv 
+a_bit_cleaned.csv
+.idea
+.idea\misc.xml
